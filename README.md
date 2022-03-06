@@ -1,1 +1,1 @@
-# wishleague.github.io
+# [WishLeague](https://wishleague.github.io)
